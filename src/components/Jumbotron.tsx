@@ -4,7 +4,7 @@ const Jumbotron = () => {
       <div className="container mx-auto">
         <div className="grid grid-cols-2 gap-10">
           <div className="flex flex-col justify-center gap-4 text-white">
-            <h1 className="text-4xl font-bold">Budi Doremi</h1>
+            <h1 className="text-4xl font-bold">Budi Doremi 123</h1>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
               et dolor reprehenderit quibusdam eligendi consequatur consequuntur
